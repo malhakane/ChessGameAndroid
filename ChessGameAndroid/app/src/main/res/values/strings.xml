@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Module name -->
+    <string name="app_name">Vintage Chess</string>
+
+    <string name="title_activity_chess">Chess Activity</string>
+    <string name="title_activity_main_menu">Main Menu</string>
+    <string name="title_activity_game_list">GameListActivity</string>
+
+<!-- Button text -->
+    <string name="action_settings">Game Settings</string>
+    <string name="action_endGame">End Game</string>
+    <string name="action_submitChanges">Submit Changes</string>
+    <string name="action_play">Play</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="en_passant">Prise en passant</string>
+    <string name="two_tablets">Two tablets</string>
+    <string name="play_music">Play background music</string>
+
+    <string name="action_validate">Validate</string>
+    <string name="action_start_newGame">Start new game</string>
+
+
+<!-- String text -->
+    <string name="welcome_text">VINTAGE CHESS</string>
+
+    <string name="white_turn">White to play</string>
+    <string name="black_turn">Black to play</string>
+    <string name="player_one">Player one</string>
+    <string name="player_two">Player two</string>
+    <string name="nb_of_rounds">Number of rounds</string>
+    <string name="game_location">Game Location</string>
+    <string name="secret_code">Secret Code</string>
+    <string name="total_time">Time limit</string>
+    <string name="time">Total time</string>
+    <string name="increment">Increment</string>
+    <string name="ext_time">Extended time</string>
+    <string name="ext_increment">Extended increment</string>
+
+
+</resources>

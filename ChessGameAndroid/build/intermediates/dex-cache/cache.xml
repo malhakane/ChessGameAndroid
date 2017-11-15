@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\Desktop\Ablam_projet3\VintageChess\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Ablam\Desktop\Ablam_projet3\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_039a44bd975cf632b50813c92545463df2476d4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_ad85c63e8bff9a637d3a5922a5d00165abd0c60d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\Desktop\Ablam_projet3\VintageChess\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Ablam\Desktop\Ablam_projet3\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_6bfc09c10a5f73d9a42d2a52ed49a1a508954f7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\Desktop\Ablam_projet3\VintageChess\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Ablam\Desktop\Ablam_projet3\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_23e3f463db3c688bdbd98727aa375ff22bf94bf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_56fb0540806aebeae7e4e7bbaf514ea14b96c9c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_bed2a1880e296092331707804422faf5d0a35f1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="60969e5836ff9662f255324f7ebef39e705f1b16">
+        <dex dex="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0b21c5f91c372d40637717813d4cc17fadada7a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\Desktop\Ablam_projet3\VintageChess\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="896430cd6d92f79782464a1a95e4ae631aefc637">
+        <dex dex="C:\Users\Ablam\Desktop\Ablam_projet3\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2e8ea31bf4bdcdde90a9b8ed804a5abccba53412\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\Desktop\Ablam_projet3\VintageChess\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="08d2c3c31a190c983f7bf77cc563cfc7cab04de6">
+        <dex dex="C:\Users\Ablam\Desktop\Ablam_projet3\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a14d54c715eff9a4a06e7d56b77b553a8bfd2f65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_d87bbb9d4a94671086eca64394637969d76b953d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\Desktop\Ablam_projet3\VintageChess\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Ablam\Desktop\Ablam_projet3\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_7be66d69e352155a3d6de23416b13670972dac37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_83946d338ad043e5fba6e670ed08655c32e35db1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_2822bae0bd66f443159abffe8905d0c859086290\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_d5e72a744860cf508cea897ce4d0b1cff96b5040\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\Desktop\Ablam_projet3\VintageChess\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Ablam\Desktop\Ablam_projet3\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_bf2b9dd68f558ba042818d86c53f1875ac82686d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_60b6b657465946ac3366b2d24aa1e68b92186b96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\Desktop\Ablam_projet3\VintageChess\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Ablam\Desktop\Ablam_projet3\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_bd57df7795e0668794afeda69c5f06c902702b99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_fb532fe58757f97a250332320d866c2e6a31d6de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5b85c45875fdbecf5fa4cf7183e81a57de1dcbe3">
+        <dex dex="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4db6d97f8eb92b7173c6ce4c53b2bbb6678acb07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Ablam\Desktop\finalProjet\inf3995-03\livrable2\client\VintageChess\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_2ded9016bcbdb41f0edfe952e5002ac3265df818\classes.dex" />
+    </item>
+
+</items>
